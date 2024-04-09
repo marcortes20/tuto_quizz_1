@@ -25,6 +25,9 @@ Implementar los métodos de la interfaz Vehiculo.
 Desafío:
 1. Define la interfaz Vehiculo con los métodos mencionados.
 2. Crea la clase Auto que implemente la interfaz Vehiculo y tenga las propiedades y métodos mencionados.
+3. Crear una instancia de Auto y usar los metodos:
+
+   
    
   .Acelerar un auto a una velocidad determinada.
    
